@@ -1,0 +1,69 @@
+/* ===================================================================
+ * fonts.scss)
+ *
+ * ------------------------------------------------------------------- */
+
+/*
+ * Libre Baskerville 
+================================================================================ */
+
+@font-face {
+    font-family: "librebaskerville-regular";
+    src: url("../fonts/librebaskerville/librebaskerville-regular-webfont.woff2") format("woff2"), url("../fonts/librebaskerville/librebaskerville-regular-webfont.woff") format("woff");
+    font-style: normal;
+    font-weight: normal;
+}
+
+@font-face {
+    font-family: "librebaskerville-italic";
+    src: url("../fonts/librebaskerville/librebaskerville-italic-webfont.woff2") format("woff2"), url("../fonts/librebaskerville/librebaskerville-italic-webfont.woff") format("woff");
+    font-style: normal;
+    font-weight: normal;
+}
+
+@font-face {
+    font-family: "librebaskerville-bold";
+    src: url("../fonts/librebaskerville/librebaskerville-bold-webfont.woff2") format("woff2"), url("../fonts/librebaskerville/librebaskerville-bold-webfont.woff") format("woff");
+    font-style: normal;
+    font-weight: normal;
+}
+
+/*
+ * Montserrat
+================================================================================ */
+
+@font-face {
+    font-family: "montserrat-regular";
+    src: url("../fonts/montserrat/montserrat-regular-webfont.woff2") format("woff2"), url("../fonts/montserrat/montserrat-regular-webfont.woff") format("woff");
+    font-style: normal;
+    font-weight: normal;
+}
+
+@font-face {
+    font-family: "montserrat-bold";
+    src: url("../fonts/montserrat/montserrat-bold-webfont.woff2") format("woff2"), url("../fonts/montserrat/montserrat-bold-webfont.woff") format("woff");
+    font-style: normal;
+    font-weight: normal;
+}
+
+@font-face {
+    font-family: "hfont";
+    src: url(../fonts/BungeeInline-Regular.ttf);
+    font-style: normal;
+    font-weight: normal;
+}
+
+@font-face {
+    font-family: 'fbody';
+    src: url('../fonts/freak/Control-Freak-Upset.ttf.woff') format('woff'), url('../fonts/freak/Control-Freak-Upset.ttf.svg#Control-Freak-Upset') format('svg'), url('../fonts/freak/Control-Freak-Upset.ttf.eot'), url('../fonts/freak/Control-Freak-Upset.ttf.eot?#iefix') format('embedded-opentype');
+    font-weight: normal;
+    font-style: normal;
+    letter-spacing: 50px;
+}
+
+@font-face {
+    font-family: 'fhead';
+    src: url('../fonts/computer/ComputerAmok.ttf.woff') format('woff'), url('../fonts/computer/ComputerAmok.ttf.svg#ComputerAmok') format('svg'), url('../fonts/computer/ComputerAmok.ttf.eot'), url('../fonts/computer/ComputerAmok.ttf.eot?#iefix') format('embedded-opentype');
+    font-weight: normal;
+    font-style: normal;
+}

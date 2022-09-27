@@ -1,7 +1,9 @@
 @import url(https://fonts.googleapis.com/css?family=Montserrat:300,400,500,700);
 #header {
-    padding: 2rem;
-}
+    
+    position: fixed;
+    background: #000;
+    }
 
 #menu {
     background: rgba(0, 0, 0, .85);

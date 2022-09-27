@@ -44,8 +44,9 @@
 }
 
 .frontbox img {
-    margin-left: 51px;
-    /* margin-top: -40px; */
+    /*margin-left: 0px;
+     margin-top: -40px; */
+    margin: auto;
     height: 296px;
 }
 
